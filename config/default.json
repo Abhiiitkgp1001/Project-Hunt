@@ -1,0 +1,4 @@
+{
+  "mongoDBUri": "mongodb+srv://smoky_grill:smokyGrill2886@smokygrill.fqlrz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtTokenKey": "rkhallE401"
+}
